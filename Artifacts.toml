@@ -1,0 +1,135 @@
+[[Metatensor]]
+arch = "aarch64"
+git-tree-sha1 = "ac4b0d9b23fd0a09d23ee7418981f0bc5e274e25"
+os = "macos"
+
+    [[Metatensor.download]]
+    sha256 = "0de2723c82756d764c8968adbafbf4e678da62ba0e094eaf02049240927d11d6"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.aarch64-apple-darwin.tar.gz"
+[[Metatensor]]
+arch = "aarch64"
+git-tree-sha1 = "896bafaa3f44116f647bfbfa6a7c85eabebe23ea"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "52b8c10debd56168c3a9a316055e2d867509d6a5390cb4da10af88003ee7c44d"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.aarch64-linux-gnu.tar.gz"
+[[Metatensor]]
+arch = "aarch64"
+git-tree-sha1 = "217b4c19acdaab9ab965bf4d39dd20de172a8687"
+libc = "musl"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "1645a5f271f95adfe726475d5ae049b42922c634acb63c335d7ed06fdbe60632"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.aarch64-linux-musl.tar.gz"
+[[Metatensor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "31e02bfabf721bd3f4f163e6704a6fbeb111505c"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "8a52292b7d99e15d5c93cff7eed2bd73213b59110473243ccaf6fe03d6a4e588"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.armv6l-linux-gnueabihf.tar.gz"
+[[Metatensor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3cbd2a708207cbe6b074a13e4907fd663f4a4fcb"
+libc = "musl"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "48297dd1380983ce7492d9232d89e6805d5395c5520cb4f2bec9416b017aafd0"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.armv6l-linux-musleabihf.tar.gz"
+[[Metatensor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a5d162cbd76c7ef6f2f0caed7dcf66fd40a57576"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "b7c46749d8f7f778192440bd7cf867024b44df10f983d079c06bff5132156890"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[Metatensor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "74c303945bf27b85b506b0034b652fe1cfdfae83"
+libc = "musl"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "d84715e1ca16aac339fd3ece1ccad3e4719a417ffb780f825351ee0ee5585c94"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.armv7l-linux-musleabihf.tar.gz"
+[[Metatensor]]
+arch = "i686"
+git-tree-sha1 = "0cd1dcb6b5436b3b3db198b7a5129c3b67ef5251"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "5497ae4ce71139db458600a9d444a67f9a9682db49e47af415373415c155f4b9"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.i686-linux-gnu.tar.gz"
+[[Metatensor]]
+arch = "i686"
+git-tree-sha1 = "cdf52bea7bc0b425d096c6fb1238697341c7158e"
+libc = "musl"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "9f264035ee08457498903fbab7fdea3d40df95637d4b88f937504ff82bb0c748"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.i686-linux-musl.tar.gz"
+[[Metatensor]]
+arch = "powerpc64le"
+git-tree-sha1 = "e428a9dfe8cfac9adcdf82d8835a9a6e7512003e"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "0b40ab2a1b09c5a8753f5c997d2437a6df8416a0d9abdfa838c761d3d26fd2f3"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.powerpc64le-linux-gnu.tar.gz"
+[[Metatensor]]
+arch = "x86_64"
+git-tree-sha1 = "3e35f228e0c3158c821a0119636776f61421ae1d"
+os = "macos"
+
+    [[Metatensor.download]]
+    sha256 = "e1a928e2f7871cc7e2cad44c4249d844651acc58b65c7361b6d13634ac05ee92"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.x86_64-apple-darwin.tar.gz"
+[[Metatensor]]
+arch = "x86_64"
+git-tree-sha1 = "eaa7d68bb0dd13433397cea6d5c58d71cfc83b99"
+libc = "glibc"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "68f8bb1d687815a3fb329c773265242d12031c31a922e869c228dae0cc38c309"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.x86_64-linux-gnu.tar.gz"
+[[Metatensor]]
+arch = "x86_64"
+git-tree-sha1 = "9c5d29d5fab79efecdbf29e2ed5e622978635586"
+libc = "musl"
+os = "linux"
+
+    [[Metatensor.download]]
+    sha256 = "5a9b1e3fa96271b119fa74ef2462d1e86e625a1a46a101a64c320999f1cf8225"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.x86_64-linux-musl.tar.gz"
+[[Metatensor]]
+arch = "x86_64"
+git-tree-sha1 = "593e3340d5690da68b958228fa2eb138af66e0d9"
+os = "freebsd"
+
+    [[Metatensor.download]]
+    sha256 = "60e34459bf5579824cdbfa63fa562c2837d1c42fe140010132a2807bb2a0050b"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.x86_64-unknown-freebsd.tar.gz"
+[[Metatensor]]
+arch = "x86_64"
+git-tree-sha1 = "d65a0c57c6c0595baf65d636f96db2b8e301d90d"
+os = "windows"
+
+    [[Metatensor.download]]
+    sha256 = "5a83788c52b7eba9c0d8649c99ce2634f8f9892e45cb05c5def628d75da8a19b"
+    url = "https://github.com/JuliaBinaryWrappers/Metatensor_jll.jl/releases/download/Metatensor-v0.2.1+0/Metatensor.v0.2.1.x86_64-w64-mingw32.tar.gz"
